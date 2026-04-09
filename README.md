@@ -58,7 +58,7 @@ Follow these steps to get the application running:
 ### 1. Authentication & Security (Section 1 & 5)
 
 #### **Secure Storage**
-Tokens are **never stored in plain text**. We utilize **hardware-backed encryption** for JWT storage.
+Tokens are **never stored in plain text**. I utilize **hardware-backed encryption** for JWT storage.
 
 #### **Auto-Refresh**
 Implemented a robust **"Single-Flight"** refresh logic to handle token expiry without race conditions.
